@@ -1,9 +1,9 @@
 # Coursera_Getting-CleaningData_CourseProject
-1) The data for the project was obtained from the following link
+A) The data for the project was obtained from the following link
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-2) The following steps were coded in the R script called run_analysis.R:
+B) The following steps were coded in the R script called run_analysis.R:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -11,6 +11,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-3) The activity labels used have been described in CodeBook.md
+C) The activity labels used have been described in CodeBook.md
 
-4) The tidy data set obtained after performing the given steps is included in the file secTidySet.txt
+D) The tidy data set obtained after performing the given steps is included in the file secTidySet.txt
