@@ -2,6 +2,7 @@
 ### The data for the project was obtained from the following link
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+The file should be extracted and saved in the working directory before running the R script
 
 ### The following steps were coded in the R script called run_analysis.R:
 
